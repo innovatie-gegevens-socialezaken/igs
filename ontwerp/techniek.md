@@ -1,6 +1,6 @@
 # Technisch Ontwerp
 
-De techniek achter de IGS services bestaat voor een groot deel uit de [SSI Infrastructuur](/ssi.md) en een aantal functies daaromheen, waarbij de interactie tussen de wallet en de services centraal staat en ook het meest complex is. Onderstaand is een overzicht van het technische landschap.
+De techniek achter de IGS services bestaat voor een groot deel uit de [SSI Infrastructuur](../ssi.md) en een aantal functies daaromheen, waarbij de interactie tussen de [wallet](../wallet.md) en de services centraal staat en ook het meest complex is. Onderstaand is een overzicht van het technische landschap.
 
 ![1682430302366](../docs/assets/1682430302366.png)
 

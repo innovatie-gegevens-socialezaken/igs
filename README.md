@@ -21,3 +21,8 @@ Services
 
 
 # Specifiek
+
+
+# Beheer
+
+Voor het beheer is het van belang het [technisch ontwerp](ontwerp/techniek.md) van de diverse services te doorgronden. Vanuit dit ontwerp kan de ontkoppeling in microservices goed worden begrepen.

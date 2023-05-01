@@ -1,6 +1,6 @@
 # Wallet
 
-De wallet is een middel voor de gebruiker om gegevens uit te wisselen volgens de [SSI Infrastructuur](./ssi.md "SSI").  Concreet is het een app op je telefoon vergelijkbaar met een soort Contacten applicatie, een lijst met digitale bewijsstukken (VCs) die als een individueel kaartje op verzoek kunnen worden gedeeld met dienstverleners.
+De wallet is een middel voor de gebruiker om gegevens uit te wisselen volgens de [SSI Infrastructuur](/igs/ssi.md "SSI").  Concreet is het een app op je telefoon vergelijkbaar met een soort Contacten applicatie, een lijst met digitale bewijsstukken (VCs) die als een individueel kaartje op verzoek kunnen worden gedeeld met dienstverleners.
 
 Er zijn verschillende Nederlandse SSI wallets in omloop, zoals [Yivi](https://www.yivi.app/), [Schluss](https://schluss.org/nl/) en de EDI-wallet die bij BZK in ontwikkeling is. In principe hebben ze dezelfde functie, er zit alleen verschil in de implementatie van de SSI-standaarden. Voor de pilots van IGS is er een eigen wallet ontwikkeld conform de zuivere interpretatie van de SSI standaarden als hulpmiddel voor de gegevensuitwisseling. Zodra het EDI-wallet traject voldoende is gevorderd is het de bedoeling dat IGS wallet de referentieimplementatie van EDI volgt.
 

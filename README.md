@@ -10,7 +10,7 @@ De stelselbeschrijving
 
 Services
 
-1. Identiteit
+1. [Identiteit](beheer/identiteit.md)
 2. Toegang
 3. Gegevens
 4. Logica
@@ -19,9 +19,7 @@ Services
 
 # Generiek
 
-
 # Specifiek
-
 
 # Beheer
 

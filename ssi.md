@@ -12,7 +12,7 @@ Op het moment dat een burger een dienst wil afnemen van een publieke of private 
 
 Deze relatief eenvoudige opzet maakt recursiviteit mogelijk; een uitgever moet bijvoorbeeld zelf ook attributen kunnen delen met controleurs of zij gerechtigd is om een bepaald attribuut uit te mogen geven. Zo kan een fijn netwerk ontstaan van partijen die met elkaar attributen kunnen delen om zo elkaars reputatie te bevestigen en die in elke stap van de transactie ook van rol kunnen wisselen. De burger die bijvoorbeeld een attribuut wil gaan delen met een partij kan op haar beurt die partij willen controleren op zijn attributen op basis waarvan die partij meent te mogen vragen om dat burgerattribuut te delen met hem.
 
-## SSI in Sociaal Domein
+## SSI in het Sociaal Domein
 
 Voorgaande abstractie vertaalt zich in concrete transactionele processen in het sociaal domein. Een bijstandsgerechtigde met tijdelijk werk is verplicht om op grond van de Participatiewet wijzigingen in inkomen door te geven, door elke maand een loonstrook te overleggen. Met deze gegevens berekent de gemeente de aanvullende uitkering en betaalt die vervolgens uit. Dit is een transactioneel proces, dat volgens het basisprincipe van SSI start met het delen van attributen (BSN, Loonstrook) door de burger met de gemeente die als attribuut de “Uitvoering van de Participatiewet” heeft, en daarvan het onderdeel “informatieplicht voor attributen x, y, z” zou moeten delen, ter controle door de burger. In praktijk is het voldoende dat de burger kan controleren dat zij met de gemeente te maken heeft (attribuut overheidsorganisatie/gemeente) om er zeker ervan te zijn dat zij haar eigenen attributen rechtmatig kan delen voor dat specifieke proces.
 
@@ -24,4 +24,4 @@ Een ander voorbeeld gaat over het vinden en behouden van werk. Met de SSI-method
 
 De essentie is dat dit SSI-model zelf ook recursief is in de zin dat er via het register DIDs van uiteenlopende aard aan elkaar kunnen worden gelinkt. Zo kan een werkgever uit het laatste voorbeeld het opleiding-attribuut van de burger, uitgegeven door de gemeente/UWV, controleren door uit dit attribuut de DIDs van het type opleiding (Product) en de aanbieder te verifiëren via het register, inclusief de reputatie-attributen van de aanbieder, indien die ze ter beschikking stelt. Zo kan via een enkel attribuut een complete *audittrail* worden gevolgd om de controleur comfort te geven.
 
-Als elke entiteit (Persoon, Organisatie, Product) met een DID wordt geregistreerd is het verantwoordingsproces van de gegevensuitwisseling daarmee ook eenvoudiger en transparanter te maken. Dit kunnen meenemen voor het vervolg van de pilots in IGS-verband.
+Als elke entiteit (Persoon, Organisatie, Product) met een DID wordt geregistreerd is het verantwoordingsproces van de gegevensuitwisseling daarmee ook eenvoudiger en transparanter te maken.

@@ -11,8 +11,8 @@ De stelselbeschrijving
 Services
 
 1. [Identiteit](beheer/identiteit.md)
-2. Toegang
-3. Gegevens
+2. [Toegang](beheer/toegang.md)
+3. [Gegevens](beheer/gegevens.md)
 4. Logica
 5. Ondersteuning
 6. Pilot

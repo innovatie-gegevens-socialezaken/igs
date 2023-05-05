@@ -4,6 +4,8 @@ De wallet is een middel voor de gebruiker om gegevens uit te wisselen volgens de
 
 Er zijn verschillende Nederlandse SSI wallets in omloop, zoals [Yivi](https://www.yivi.app/), [Schluss](https://schluss.org/nl/) en de EDI-wallet die bij BZK in ontwikkeling is. In principe hebben ze dezelfde functie, er zit alleen verschil in de implementatie van de SSI-standaarden. Voor de pilots van IGS is er een eigen wallet ontwikkeld conform de zuivere interpretatie van de SSI standaarden als hulpmiddel voor de gegevensuitwisseling. Zodra het EDI-wallet traject voldoende is gevorderd is het de bedoeling dat IGS wallet de referentieimplementatie van EDI volgt.
 
+De code van de wallet staat [hier](https://gitlab.com/ovrhd/wallet2023).
+
 ## Uitgever
 
 Een lege wallet heeft geen waarde, daarom moet die eerst gevuld worden met digitale bewijsstukken, Verifiable Credentials in SSI termen. Belangrijk aspect is dat ze digitaal verifieerbaar moeten zijn, zodat de ontvanger van het bewijsstuk zich ervan kan vergewissen dat het actueel is en van een betrouwbare afzender of uitgever afkomstig is. Uitgevers van waarde zijn dan partijen die belangrijke gegevens over burgers registreren, ook wel een authentieke bron genoemd. Basisregistraties zijn zo'n authentieke bron, waarvan de afzenders dus overheidspartijen zijn. Maar ook private partijen als banken kunnen belangrijke afzenders zijn van authentieke gegevens over burgers. Binnen SSI concept zijn dus het type afzenders of uitgevers, die gegevens over jou aan jouw wallet kunnen aanbieden, en meer specifiek de reputatie daarvan, van waarde voor de uiteindelijke ontvanger van jouw bewijsstuk.

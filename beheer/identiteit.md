@@ -8,7 +8,7 @@ Services die met identiteit te maken hebben zijn gebaseerd op de [SSI Infrastruc
 * verificatieservice (controleren of de VC geldig is)
 * revocatieservice (VC intrekken vanuit de uitgever als er iets mis is met de VC)
 
-Dit noemen we de verzameling *SSI services* en zijn via [live.ledgr.nl](live.ledgr.nl/docs) te benaderen, in feite een API voor het doen van transacties op de (private) blockchain van [Dock](dock.io).
+Dit noemen we de verzameling *SSI services* en zijn via [live.ledgr.nl](live.ledgr.nl/docs) te benaderen, in feite een API voor het doen van transacties op de (private) blockchain van [Dock](dock.io). De code van de SSI services staat [hier](https://gitlab.com/ovrhd/service.ledger.nl).
 
 ## Private blockchain
 

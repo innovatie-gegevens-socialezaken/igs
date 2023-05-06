@@ -20,11 +20,11 @@ In technische zin gebruiken we dus voor de regelingen DMN-tabellen, waarbij de v
 
 ## Services
 
-| component (CI)         | API                                                                   | Invoer                                           | Uitvoer                                           | Doel                                                        |
-| ---------------------- | --------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- | ----------------------------------------------------------- |
-| Inkomensverrekening    | [https://regelservice.fnctn.nl/docs](https://regelservice.fnctn.nl/docs) | loonwaarden en parameters                        | uit te betalen bedrag op basis van loon           | het verrekenmodel voor aanvullende inkomsten naast bijstand |
-| Diagnose service       | [https://regelservice.fnctn.nl/docs](https://regelservice.fnctn.nl/docs) | een configureerbare set aan vragen               | een score op basis van antwoorden en weegfactoren | hulpmiddel voor snelle triage gebaseerd op DMN-modellen     |
-| Regel service algemeen | [https://regelservice.fnctn.nl/docs](https://regelservice.fnctn.nl/docs) | een configureerbare set aan regels of parameters | een DMN model                                     | besluitvorming transparant maken                            |
+| component (CI)                                                   | API                                                                   | Invoer                                           | Uitvoer                                           | Doel                                                        |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- | ----------------------------------------------------------- |
+| [Inkomensverrekening](https://gitlab.com/ovrhd/igs/regelservice)    | [https://regelservice.fnctn.nl/docs](https://regelservice.fnctn.nl/docs) | loonwaarden en parameters                        | uit te betalen bedrag op basis van loon           | het verrekenmodel voor aanvullende inkomsten naast bijstand |
+| [Diagnose service](https://gitlab.com/ovrhd/igs/regelservice)       | [https://regelservice.fnctn.nl/docs](https://regelservice.fnctn.nl/docs) | een configureerbare set aan vragen               | een score op basis van antwoorden en weegfactoren | hulpmiddel voor snelle triage gebaseerd op DMN-modellen     |
+| [Regel service algemeen](https://gitlab.com/ovrhd/igs/regelservice) | [https://regelservice.fnctn.nl/docs](https://regelservice.fnctn.nl/docs) | een configureerbare set aan regels of parameters | een DMN model                                     | besluitvorming transparant maken                            |
 
 ## Achtergrond actuele gegevens
 

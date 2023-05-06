@@ -2,9 +2,9 @@
 
  Technische documentatie voor IGS
 
-# Koersplaat
+# Services
 
-Services
+Categorie
 
 1. [Identiteit](beheer/identiteit.md)
 2. [Inkomen](beheer/inkomen.md)

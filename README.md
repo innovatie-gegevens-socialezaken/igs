@@ -1,25 +1,16 @@
 # IGS Documentatie
 
- Documentatie voor IGS
-
-# Stelsel
-
-De stelselbeschrijving
+ Technische documentatie voor IGS
 
 # Koersplaat
 
 Services
 
 1. [Identiteit](beheer/identiteit.md)
-2. [Toegang](beheer/toegang.md)
-3. [Gegevens](beheer/gegevens.md)
-4. Logica
-5. Ondersteuning
-6. Pilot
-
-# Generiek
-
-# Specifiek
+2. [Inkomen](beheer/inkomen.md)
+3. [Werk](beheer/werk.md)
+4. Ondersteuning
+5. PoCs en Pilots
 
 # Beheer
 

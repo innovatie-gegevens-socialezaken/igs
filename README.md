@@ -1,4 +1,4 @@
-# IGS Documentatie
+# IGS Technische Documentatie
 
  Technische documentatie voor IGS
 
@@ -9,7 +9,7 @@ Services
 1. [Identiteit](beheer/identiteit.md)
 2. [Inkomen](beheer/inkomen.md)
 3. [Werk](beheer/werk.md)
-4. Ondersteuning
+4. [Regels](beheer/regels.md)
 5. PoCs en Pilots
 
 # Beheer

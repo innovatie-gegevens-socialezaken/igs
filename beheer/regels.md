@@ -45,16 +45,18 @@ Bij ZZP-ers tegen de armoedegrens zou dan een beoordeling op basis van contractw
 Gegevensuitwisseling in het sociaal domein is nu vooral gericht op statische arbeids- en uitkeringsregelingen (inkomstenverhoudingen), terwijl de werkelijkheid inmiddels sterk dynamisch van karakter is. De [Commissie-Borstlap](https://www.rijksoverheid.nl/documenten/rapporten/2020/01/23/rapport-in-wat-voor-land-willen-wij-werken) heeft een aantal aanbevelingen gedaan, waaronder deze:
 
 **Leven lang ontwikkelen**
-• Iedereen krijgt bij geboorte een persoonlijk ontwikkelbudget;
-• De werkgever stort maandelijks een bijdrage in dat budget;
-• Bij ontslag wordt de transitievergoeding in het ontwikkelbudget gestort;
-• Iedereen wordt verplicht tot een periodieke loopbaan APK;
-• Een loopbaanwinkel die alle werkenden ondersteunt bij het gebruikmaken van het ontwikkelbudget.
+
+* Iedereen krijgt bij geboorte een persoonlijk ontwikkelbudget;
+* De werkgever stort maandelijks een bijdrage in dat budget;
+* Bij ontslag wordt de transitievergoeding in het ontwikkelbudget gestort;
+* Iedereen wordt verplicht tot een periodieke loopbaan APK;
+* Een loopbaanwinkel die alle werkenden ondersteunt bij het gebruikmaken van het ontwikkelbudget.
 
 **Activerend en inclusief arbeidsmarktbeleid**
-• Voorkom (langdurige) uitval door tijdig switchen en publiek-private samenwerking
-• Losgekoppeld van uitkering;
-• Vanaf dag één in een gestructureerde setting werken aan verbetering van hun kansen op de arbeidsmarkt;
-• Investeren in volwaardige participatie aan de basis van de arbeidsmarkt;
+
+* Voorkom (langdurige) uitval door tijdig switchen en publiek-private samenwerking
+* Losgekoppeld van uitkering;
+* Vanaf dag één in een gestructureerde setting werken aan verbetering van hun kansen op de arbeidsmarkt;
+* Investeren in volwaardige participatie aan de basis van de arbeidsmarkt;
 
 Dit betekent voor burgerregie dat iedereen in staat moet worden gesteld de regie op zijn loopbaan te houden en zijn CV actueel te houden wat betreft werk, tijdelijke opdrachten en tussentijdse opleidingen. Veel vaker dan nu zullen arbeidsmarktregelingen daarop gebaseerd zijn en in het sociaal domein betekent dat een herhaalde uitwisseling van actuele werk- en opleidingsgegevens, die door de burger zelf worden bijgehouden.

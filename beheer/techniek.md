@@ -7,7 +7,7 @@ De techniek achter de IGS services bestaat voor een groot deel uit de [SSI Infra
 De bovenste helft van het plaatje geeft het beste de kernarchitectuur van de IGS services weer:
 
 * links de blockchain gebaseerd op de open source [dock.io]() SDK waar de DIDs en de Verifiable Credentials worden weggeschreven en gevalideerd, bestaande uit 3 (synchroniserende) machines
-* in het midden de [wallet](../wallet.md) en de portalen die communiceren met [live.ledgr.nl](live.ledgr.nl/docs), dat is een API machine om te kunnen communiceren met de blockchain	
+* in het midden de [wallet](../wallet.md) en de portalen die communiceren met [live.ledgr.nl](live.ledgr.nl/docs), dat is een API machine om te kunnen communiceren met de blockchain
 * rechts de link naar de [Appwrite](appwrite.io) machine, [fire.sovrhd.net](), dat is een open source *backend-as-a-service*, vergelijkbaar met [Google Firebase](https://firebase.google.com/), voor de communicatie tussen de wallet en de services
 
 De onderste helft bestaat uit een aantal "hulpdiensten", vooral APIs die
@@ -18,10 +18,6 @@ De onderste helft bestaat uit een aantal "hulpdiensten", vooral APIs die
   * chatbot (RASA-service), te integreren in [GEM](https://opengem.nl/producten/chatbot/)
   * AWS lambda functies voor het Werkdomein (middelste blok en [match-beroeper.fnctn.nl](match-beroeper.fnctn.nl/api))
   * functies voor het Inkomendomein voor de Bijstand ([category-model-service.fnctn.nl](category-model-service.fnctn.nl/api))
-
-## Beknopt overzicht
-
-![1682432273751](../docs/assets/1682432273751.png "Overzicht")
 
 ## Modellen
 

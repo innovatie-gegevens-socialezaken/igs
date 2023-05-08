@@ -1,6 +1,6 @@
 # Identiteit
 
-Services die met identiteit te maken hebben zijn gebaseerd op de [SSI Infrastructuur](../ssi.md). We hebben het dan vooral over de *Houder* van de wallet, die zijn identiteit ontleent aan de attributen of Verifiable Credentials (VCs) die in zijn wallet zitten. Maar die VCs zijn wel eerst uitgereikt door een bepaalde uitgever in het vertrouwensnetwerk. Er is dus een aantal services nodig om de uitwisseling en verificatie van VCs tot stand te brengen:
+Services die met identiteit te maken hebben zijn gebaseerd op de [SSI Infrastructuur](../ssi.md). We hebben het dan vooral over de *Houder* van de wallet, die zijn identiteit ontleent aan de attributen of Verifiable Credentials (VCs) die in zijn [wallet](../wallet.md) zitten. Maar die VCs zijn wel eerst uitgereikt door een bepaalde uitgever in het vertrouwensnetwerk. Er is dus een aantal services nodig om de uitwisseling en verificatie van VCs tot stand te brengen:
 
 * schemaservice (het bepalen van het formaat VC voor een bepaald gegeven)
 * uitreikservice (het uitgeven van een VC)

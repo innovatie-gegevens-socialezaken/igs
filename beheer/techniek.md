@@ -21,7 +21,7 @@ De onderste helft bestaat uit een aantal "hulpdiensten", vooral APIs die
 
 ## Modellen
 
-Er is een aantal [C4 modellen](https://stelsel-architectuur.twi-programma.nl/376b5005-25b5-42f8-9d42-f871d91dd242/views/id-fe2159a8f14d4015a34210d3585ac309.htm "C4 model van VIL") gemaakt van de pilots, die geven in het algemeen een consistent beeld van de opbouw van een pilot.
+Er is een aantal [C4 modellen](https://stelsel-architectuur.twi-programma.nl/ "C4 model van VIL") gemaakt van de pilots, die geven in het algemeen een consistent beeld van de opbouw van een pilot.
 
 ## Repositories
 

@@ -4,13 +4,14 @@
 
 # Services
 
-Categorie
+De volgende categorieën zijn gebruikt om de componenten onder te verdelen:
 
 1. [Identiteit](beheer/identiteit.md)
 2. [Inkomen](beheer/inkomen.md)
 3. [Werk](beheer/werk.md)
 4. [Regels](beheer/regels.md)
-5. PoCs en Pilots
+5. [Systeemintegratie](beheer/systeemintegratie.md)
+6. PoCs en Pilots
 
 # Beheer
 

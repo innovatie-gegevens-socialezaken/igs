@@ -6,7 +6,7 @@ De meeste services die verband houden met regels en specifieke logica in het Wer
 
 ## SUWInet
 
-Om gegevens uit SUWInet te kunnen halen moet je verbonden zijn met het Diginetwerk, een belsoten netwerk tussen overheidsorganisaties. Gemeenten zijn daarop aangesloten en maken gebruik van een zogenaamde DKD-inleesservice via het Inlichtingenbureau voor hun administratie. Via deze services kunnen de volgende gegevens van een burger worden ontsloten:
+Om gegevens uit SUWInet te kunnen halen moet je verbonden zijn met het Diginetwerk, een belsoten netwerk tussen overheidsorganisaties. Gemeenten zijn daarop aangesloten en maken gebruik van een zogenaamde [DKD-inleesservice](https://www.inlichtingenbureau.nl/Beleidsterreinen/Werk-en-Bestaanszekerheid/Routeervoorziening-Digitaal-Klantdossier/DKD-inlezen) via het Inlichtingenbureau voor hun administratie. Via deze services kunnen de volgende gegevens van een burger worden ontsloten:
 
 * Persoonsgegevens (via de BRP)
 * Inkomensgegevens (via de polisadministratie van UWV)

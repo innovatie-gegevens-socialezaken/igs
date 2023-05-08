@@ -41,3 +41,16 @@ Het formaat van een VC kan je controleren aan de hand van een [schema](https://w
 ```
 
 Voor IGS zijn verschillende schema's gedefinieerd, die in een productiefase naar de [ontologie van GBI](https://vngr-gbi.gitlab.io/ontologie-inkomen-werkversie/) moeten worden gestandaardiseerd of via het [open-regels](open-regels.nl) initiatief.
+
+## Services
+
+| [component (CI)](https://gitlab.com/ovrhd/service.ledger.nl) | Endpoint                                                  | Invoer                               | Uitvoer                                | Doel                                                                              |
+| --------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------ | -------------------------------------- | --------------------------------------------------------------------------------- |
+| DID service                                               | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) | DID om toe te wijzen                 | DID registratie                        | een decentrale identiteit aanmaken via de wallet                                  |
+| VC uitgeefservice                                         | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) | ruwe opbouwwaarden van een VC        | VC om op te slaan in de wallet         | attributen verzamelen en aan een DID hangen                                       |
+| VC verificatieservice                                     | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) | een VC                               | verificatie van een VC                 | check of VC geldig is                                                             |
+| VP service                                                | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) | een lijst VC om in de VP op te nemen | een VP                                 | een selectie van VCs maken om uit te wisselen                                     |
+| Revocatie service                                         | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) | een geldig VC                        | een ongeldig verklaard VC              | geldigeheid van VCs muteren door uitgever                                         |
+| Schema service                                            | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) | waarden die een W3C schema bepalen   | een schema waar VCs aan moeten voldoen | vertrouwen krijgen in correctheid van VCs                                         |
+| Methode service                                           | [https://live.ledgr.nl/docs#/](https://live.ledgr.nl/docs#/) |                                      |                                        | Aanpassen van DID met methodes zodat service endpoints gedefinieerd kunnen worden |
+| Wallet                                                    |                                                           | download vanuit appstore             | een app op de telefoon                 | een opslagmedium voor VCs om uit te wisselen                                      |

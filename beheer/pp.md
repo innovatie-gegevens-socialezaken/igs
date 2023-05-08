@@ -20,4 +20,4 @@ Programma VUM is complementair aan IGS in de zin dat er CVs worden uitgewisseld 
 
 ## Website integratie
 
-De ontwikkeling van een chatbot is mede gedaan voor demonstratiedoeleinden, maar er zijn ook integraties met websites gemaakt, die meer voor de hand liggen in een pilot- of productiesetting. Daarnaast is er ook
+De ontwikkeling van een chatbot is mede gedaan voor demonstratiedoeleinden, maar er zijn ook integraties met websites gemaakt, die meer voor de hand liggen in een pilot- of productiesetting. Daarnaast is er ook in de pilots van Enschede en Virtueel Inkomsten Loket behoefte (geweest) aan ondersteunende websites voor de uitwisseling van de gegevens en het verifiëren daarvan via audit trails. Dit heeft onder andere geleid tot het [Consulentenportaal](https://vimeo.com/556219400/e88e83e1ae) en de "stappen" [portalen](https://innovatie-gegevens-socialezaken.github.io/vil/) van VIL.

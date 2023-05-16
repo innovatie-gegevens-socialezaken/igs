@@ -4,7 +4,7 @@ De wallet is een middel voor de gebruiker om gegevens uit te wisselen volgens de
 
 Er zijn verscwhillende Nederlandse SSI wallets in omloop, zoals [Yivi](https://www.yivi.app/), [Schluss](https://schluss.org/nl/) en de EDI-wallet die bij BZK in ontwikkeling is. In principe hebben ze dezelfde functie, er zit alleen verschil in de implementatie van de SSI-standaarden. Voor de pilots van IGS is er een eigen wallet ontwikkeld conform de zuivere interpretatie van de SSI standaarden als hulpmiddel voor de gegevensuitwisseling. Zodra het EDI-wallet traject voldoende is gevorderd is het de bedoeling dat IGS wallet de referentieimplementatie van EDI volgt.
 
-De VCs worden alleen in de wallet [versleuteld](https://pub.dev/packages/flutter_secure_storage) opgeslagen en bij de uitgever in verband met revocatie (intrekmogelijkheid). De code van de wallet staat [hier](https://gitlab.com/ovrhd/wallet2023).
+De VCs worden alleen in de wallet [versleuteld](https://pub.dev/packages/flutter_secure_storage) opgeslagen en bij de uitgever in verband met revocatie (intrekmogelijkheid). 
 
 ## Uitgever
 

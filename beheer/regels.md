@@ -1,6 +1,6 @@
 # Regels
 
-Het idee achter regelbeheer is dat willekeur wordt tegengegaan in het beoordelen van aanvragen van burgers voor publieke dienstverlening. Goed regelbeheer geeft transparantie in de besluitvorming en de algoritmen die daarin worden gebruikt. Daarbij sluiten we aan bij technische standaarden zoals [DMN](https://en.wikipedia.org/wiki/Decision_Model_and_Notation), maar ook bij het bredere concept van [open regels](open-regels.nl), zoals dat nu door ICTU in gang is gezet met het oog op vertaling van wetten naar praktisch uitvoerbare regelingen in het sociaal domein en uiteindelijk naar alle publieke dienstverlening.
+Het idee achter regelbeheer is dat willekeur wordt tegengegaan in het beoordelen van aanvragen van burgers voor publieke dienstverlening. Goed regelbeheer geeft transparantie in de besluitvorming en de algoritmen die daarin worden gebruikt. Daarbij sluiten we aan bij technische standaarden zoals [DMN](https://en.wikipedia.org/wiki/Decision_Model_and_Notation), maar ook bij het bredere concept van [open regels](https://regels.overheid.nl/), zoals dat nu door ICTU in opdracht van BZK in gang is gezet met het oog op vertaling van wetten naar praktisch uitvoerbare regelingen in het sociaal domein en uiteindelijk naar alle publieke dienstverlening.
 
 ## DMN-tabellen
 

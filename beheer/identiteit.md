@@ -12,7 +12,7 @@ Dit noemen we de verzameling *SSI services* en zijn via [live.ledgr.nl](live.led
 
 ## Private blockchain
 
-Voor de pilots van IGS hebben we een private blockchain opgezet met 3 nodes, zoals in het plaatje van het technisch ontwerp is getoond. Deze 3 nodes repliceren de transacties en data en acteren dus als een *distributed ledger*. Om deze op te zetten is het dus nodig om 3 (virtuele) machines in te richten conform de [handleiding](https://github.com/docknetwork/dock-substrate) van Dock. De technologie is gebaseerd op Polkadot [Substrate](https://substrate.io/vision/substrate-and-polkadot/). De API van de SSI Services is in feite een wrapper om de [Dock SDK](https://github.com/docknetwork/sdk), die goed is beschreven.
+Voor de pilots van IGS hebben we een private blockchain opgezet met 3 nodes, zoals in het plaatje van het [technisch ontwerp](techniek.md) is getoond. Deze 3 nodes repliceren de transacties en data en acteren dus als een *distributed ledger*. Om deze op te zetten is het dus nodig om 3 (virtuele) machines in te richten conform de [handleiding](https://github.com/docknetwork/dock-substrate) van Dock. De technologie is gebaseerd op Polkadot [Substrate](https://substrate.io/vision/substrate-and-polkadot/). De API van de SSI Services is in feite een wrapper om de [Dock SDK](https://github.com/docknetwork/sdk), die goed is beschreven.
 
 ## Schema
 

@@ -40,7 +40,7 @@ Het formaat van een VC kan je controleren aan de hand van een [schema](https://w
 }
 ```
 
-Voor IGS zijn verschillende schema's gedefinieerd, die in een productiefase naar de [ontologie van GBI](https://vngr-gbi.gitlab.io/ontologie-inkomen-werkversie/) moeten worden gestandaardiseerd of via het [open-regels](open-regels.nl) initiatief.
+Voor IGS zijn verschillende schema's gedefinieerd, die in een productiefase naar de [ontologie van GBI](https://vngr-gbi.gitlab.io/ontologie-inkomen-werkversie/) moeten worden gestandaardiseerd of via het [open-regels](https://regels.overheid.nl/) initiatief.
 
 ## Services
 

@@ -1,6 +1,6 @@
-# IGS Technische Documentatie
+# IGS Documentatie
 
- Technische documentatie voor IGS
+ Documentatie voor IGS componenten
 
 # Services
 
